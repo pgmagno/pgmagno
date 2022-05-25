@@ -1,4 +1,4 @@
-![Build Status](https://i.ibb.co/JcDvfB1/final-628534703f26140066d1b7e3-564674.gif)
+https://i.ibb.co/JcDvfB1/final-628534703f26140066d1b7e3-564674.gif
 # [A Brief Biography](https://linkedin.com/in/pgsmagno/)
 
 My name is Paulo Giovanny Sipaúba Magno. I am a developer currently based in São Luís, Maranhão, Brazil. I'm currently pursing a higher education degree in Systems Analysis and Development at UNDB (Centro Universitário Dom Bosco). You can see below some of the technologies I have been studying. You can also checkout some of the projects which are linked after the badges 

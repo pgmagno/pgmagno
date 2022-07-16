@@ -8,7 +8,7 @@ More specifically Paulo Magno. I am a developer currently based in São Luís, M
 ## Projects
 
 | Name | Links |
-| :-: | :-: |
+| :-- | :-: |
 | A Casio-inspired Calculator/Clock | [Live](https://pgmagno.github.io/tod-calculator/) / [Code](https://github.com/pgmagno/tod-calculator) |
 | Etch-a-Sketch | [Live](https://pgmagno.github.io/etch-a-sketch/) / [Code](https://github.com/pgmagno/etch-a-sketch) |
 | Dashboard Turismo MA | [Live](https://observatorioturismoma.github.io/dashboard/) / [Code](https://github.com/observatorioturismoma/dashboard) |

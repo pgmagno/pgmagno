@@ -12,6 +12,8 @@ My name is Paulo Giovanny SipaÃºba Magno. I am a developer currently based in SÃ
 >#### [Tic-Tac-Toe](https://github.com/pgmagno/tictactoe)
 >#### [Sudoku](https://github.com/pgmagno/sudoku)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgmagno)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact Information
 
 <a href="https://linkedin.com/in/pgsmagno/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
